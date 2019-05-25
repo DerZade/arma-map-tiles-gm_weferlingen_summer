@@ -12,6 +12,10 @@
         {
             "name": "Satellite",
             "path": "sat/"
+        },
+        {
+            "name": "Satellite (Winter)",
+            "path": "sat_winter/"
         }
     ],
     "locations": [
